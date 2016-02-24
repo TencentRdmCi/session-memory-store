@@ -1,6 +1,6 @@
 {
   "name": "session-memory-store",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Memory store for session that can auto check expired.",
   "main": "index.js",
   "directories": {
@@ -10,6 +10,16 @@
     "node-cache": "^3.1.0",
     "lodash": "^2.4.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TencentRdmCi/session-memory-store.git"
+  },
+  "author": "vinsonxiao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TencentRdmCi/session-memory-store/issues"
+  },
+  "homepage": "https://github.com/TencentRdmCi/session-memory-store",
   "devDependencies": {
     "body-parser": "^1.0.2",
     "cookie-parser": "^1.4.1",
