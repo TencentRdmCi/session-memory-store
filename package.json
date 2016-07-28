@@ -1,6 +1,6 @@
 {
   "name": "session-memory-store",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Memory store for session that can auto check expired.",
   "main": "index.js",
   "directories": {
