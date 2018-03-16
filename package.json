@@ -7,8 +7,8 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "node-cache": "^3.1.0",
-    "lodash": "^2.4.2"
+    "lodash": "^4.17.5",
+    "node-cache": "^3.1.0"
   },
   "repository": {
     "type": "git",
@@ -27,7 +27,6 @@
     "error-handler": "^0.1.4",
     "express": "~4.1.1",
     "express-session": "^1.13.0",
-    "jade": "~0.31.2",
     "method-override": "^1.0.0",
     "morgan": "^1.0.0"
   },
