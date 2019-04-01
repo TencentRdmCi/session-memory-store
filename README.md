@@ -6,7 +6,10 @@ Because the default store for `express-session` -- memory-cache will lead to a m
 
 And this is why I make this project, for those who want to use in-memory session, also want them to auto expire.
 
-BTW, as the session is still storing in memory, you can't share the session with the others, process or other service.
+## WANING
+The session is still storing in memory, you can't share the session with others process or other service.
+
+It's highly not recommend to use it in production!
 
 ## USAGE
 
