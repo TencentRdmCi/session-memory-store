@@ -27,12 +27,10 @@
     "error-handler": "^0.1.4",
     "express": "~4.1.1",
     "express-session": "^1.13.0",
-    "method-override": "^1.0.0",
+    "method-override": "^3.0.0",
     "morgan": "^1.0.0"
   },
   "scripts": {
     "example": ""
-  },
-  "author": "vinsonxiao",
-  "license": "MIT"
+  }
 }
